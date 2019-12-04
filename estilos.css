@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+  }
+  
+  main {
+  display: block;
+  }
+
+  header{
+    border-style: solid;
+    border-color: purple ;
+  }
+
+  section {
+    border-style: solid;
+    border-color: green;
+  }
+
+  .contenedor-principal
+  
