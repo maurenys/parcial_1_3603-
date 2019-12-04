@@ -15,6 +15,14 @@ body {
     border-style: solid;
     border-color: green;
   }
+  main {
+    border-style:solid;
+    border-color: red;
+    border-width:1px;
+    }
+  .contenedor-principal {
+    border-style: solid;
+    border-color : blue);
+  }
 
-  .contenedor-principal
-  
+ 
